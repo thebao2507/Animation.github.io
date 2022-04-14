@@ -155,15 +155,15 @@ html {
 }
 
 #slider {
-    padding-top: 50%;
-    margin-top: 48px;
-    background-image: url('/w3_theband/assets/img/animation/ani1.jpg');
-    max-width: auto;
-    max-height: auto;
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+#slider .hh {
+    height: 60%;
+    width: 100%;
 }
 
 #slider .text-img {
